@@ -1,5 +1,5 @@
 
-# Basic CRUD API with Django Rest Framework
+# Test task: Build a Django CRUD API with Swagger Documentation
 
 A simple CRUD API implemented using Django and Django REST Framework. This project provides a basic setup for managing a weekly schedule with operations to Create, Read, Update, and Delete entries.
 
